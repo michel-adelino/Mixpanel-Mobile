@@ -5,7 +5,7 @@
 
 # Build Mixpanel Mobile app with Mixpanel APIs
 
-Track and analyze users' top events data on just one hand, with a **Mixpanel Mobile** app in Flutter, generated automatically using DhiWise in just 1 hour by implementing the Mixpanel API.
+Track and analyze users' top events data on just one hand, with a **Mixpanel Mobile** app in Flutter, implementing the Mixpanel API.
 
 ### Table of Contents
 - [Features](#features)
@@ -16,7 +16,6 @@ Track and analyze users' top events data on just one hand, with a **Mixpanel Mob
 - [Libraries and tools used](#libraries-and-tools-used)
 - [Support](#support)
 - [License](#license)
-- [Community](#community)
 
 
 # Features
@@ -49,7 +48,7 @@ $ git clone
 
 [https://github.com/](https://github.com/).....
 
-$ cd OfficeInventory
+$ cd Mixpanel-Mobile
 
 ```
 
@@ -71,30 +70,10 @@ Add your Porject ID in``` lib/core/constants/MyConstant.dart ``` in ```projectId
 ```
 flutter run
 ```
-<br>
-<br>
-
-<div>
-  <h1 align="center">Getting Started with Flutter 🚀 </h1>
-  <strong>
-    Generated with ❤️ from Dhiwise
-  </strong>
-  <p>
-    This is the documentation of Flutter Applications.
-    It holds all the info you need to get started with
-    and make changes to your App
-  </p>
-</div>
-
 ### Version of Technologies
 
 Dart SDK Version 2.17.0 or greater.
 Flutter SDK Version 3.0.0 or greater.
-
-### Figma design guideline for better accuracy
-
-Read our guidelines to increase the accuracy of design conversion to code by optimizing Figma designs.
-https://docs.dhiwise.com/knowledgehub/reference-guide-and-tools/figma
 
 ### App Navigations
 
@@ -145,29 +124,10 @@ https://pub.dev/packages/cached_network_image
     
 ### Support
 
-If you have problems or questions go to our Discord channel, we will then try to help you as quickly as possible: https://discord.com/invite/rFMnCG5MZ7
-
+If you have problems or questions, please open an issue on the repository.
 
 ## License
 MIT License
-Copyright (c) 2022 DhiWise
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-## Community
-<table>
-<th>
-<td>
-<a href="https://twitter.com/dhiwise"><img src="https://user-images.githubusercontent.com/35039342/55471524-8e24cb00-5627-11e9-9389-58f3d4419153.png" width="60" alt="DhiWise Twitter"></a>
-</td>
-<td>
-<a href="https://www.youtube.com/c/DhiWise"><img src="https://cdn.vox-cdn.com/thumbor/0kpe316UpZWk53iw3bOLoJfF6hI=/0x0:1680x1050/1400x1400/filters:focal(706x391:974x659):format(gif)/cdn.vox-cdn.com/uploads/chorus_image/image/56414325/YTLogo_old_new_animation.0.gif" width="60" alt="DhiWise YouTube"></a>
-</td>
-<td>
-<a href="https://discord.com/invite/rFMnCG5MZ7"><img src="https://user-images.githubusercontent.com/47489894/183043664-b01aac56-0372-458a-bde9-3f2a6bded21b.png" width="60" alt="DhiWise Discord"></a>
-</td>
-<td>
-<a href="https://docs.dhiwise.com/"><img src="https://global-uploads.webflow.com/618e36726d3c0f19c9284e56/62383865d5477f2e4f6b6e2e_main-monogram-p-500.png" width="60" alt="DhiWise Documentation"></a>
-</td>
-</table>
